@@ -1,0 +1,10 @@
+PRIMARY_COLOR = "#00BFFF"
+BACKGROUND_COLOR = "#1E1E1E"
+SIDEBAR_COLOR = "#252526"
+SUCCESS_COLOR = "green"
+DANGER_COLOR = "red"
+TEXT_COLOR = "white"
+
+FONT_LARGE = ("Arial", 28, "bold")
+FONT_MEDIUM = ("Arial", 20, "bold")
+FONT_SMALL = ("Arial", 16)
